@@ -3,6 +3,7 @@
 	"author": "Pedro-V-Carreno-R",
 	"description": "This is my first project in Node.js",
   "keywords": [ "Node.js", "packages", "json", "first", "freecodecamp" ],
+  "license": "MIT",
 	"dependencies": {
 		"express": "^4.14.0"
 	},

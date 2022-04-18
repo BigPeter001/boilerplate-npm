@@ -2,8 +2,15 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Pedro-V-Carreno-R",
 	"description": "This is my first project in Node.js",
-  "keywords": [ "Node.js", "packages", "json", "first", "freecodecamp" ],
-  "license": "MIT",
+	"keywords": [
+		"Node.js",
+		"packages",
+		"json",
+		"first",
+		"freecodecamp"
+	],
+	"license": "MIT",
+  "version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
